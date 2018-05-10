@@ -2,7 +2,7 @@ title: R Rated
 author: Patrick Vacek
 email: prvacek@ucdavis.edu
 description:
-  Patrick's new website.
+  uuuuuuu
 avatar: "pvacek.github.io/images/rated_r1.png"
 # social links
 github_username:  pvacek
@@ -23,7 +23,7 @@ linkedin_username: patrick-vacek
 #   instance: example.com
 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
